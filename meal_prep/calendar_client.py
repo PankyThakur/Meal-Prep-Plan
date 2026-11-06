@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
 ROOT = Path(__file__).resolve().parent.parent  # meal-prep-project/
-CALENDAR_ID = "40124dd3644c9e450ad2afe1d714d52697917f80c740eb159fb10ed71aca21d9@group.calendar.google.com"
+CALENDAR_ID = "primary"  # replace with your own calendar ID
 
 def get_calendar_service():
     creds = None
