@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cheesy Spinach Omelette",
+    "ingredients": ["eggs", "spinach", "cheese", "oil"],
+    "equipment": ["non-stick pan", "spatula", "bowl", "fork"],
+    "minutes": 8,
+    "calories": 350,
+    "protein": 26,
+    "steps": [
+      "Crack 3 eggs into a bowl, add a pinch of salt, and whisk for 30 seconds.",
+      "Heat a teaspoon of oil in a non-stick pan over medium heat.",
+      "Add a handful of spinach and cook for 1 minute until it wilts.",
+      "Pour the eggs over the spinach and let them set for 1 minute without stirring.",
+      "Sprinkle cheese over one half, then fold the omelette in half with the spatula.",
+      "Cook 1 more minute, then slide onto a plate and serve."
+    ]
+  },
+  {
+    "name": "Spicy Tofu & Broccoli Rice Bowl",
+    "ingredients": ["tofu", "rice", "broccoli", "chili sauce", "lettuce"],
+    "equipment": ["pot with lid", "large pan", "knife", "cutting board"],
+    "minutes": 15,
+    "calories": 520,
+    "protein": 28,
+    "steps": [
+      "Rinse 1 cup of rice, add it to a pot with 2 cups of water, bring to a boil, then cover and simmer on low for 12 minutes.",
+      "While the rice cooks, press the tofu, cut it into cubes, and pat dry.",
+      "Heat a little oil in a large pan over medium-high heat and fry the tofu for 5 minutes until golden.",
+      "Add the broccoli florets and 2 tablespoons of water, cover, and steam for 3 minutes.",
+      "Stir in 1 tablespoon of chili sauce and cook for 1 minute.",
+      "Spoon the rice into a bowl, top with the tofu and broccoli, and add shredded lettuce on the side."
+    ]
+  },
+  {
+    "name": "High-Protein TVP & Potato Scramble",
+    "ingredients": ["TVP", "potatoes", "spinach", "chili sauce", "cumin"],
+    "equipment": ["pot", "large pan with lid", "knife", "cutting board"],
+    "minutes": 12,
+    "calories": 480,
+    "protein": 40,
+    "steps": [
+      "Dice 1 potato into small cubes and microwave for 3 minutes, or boil until just tender.",
+      "Soak 1/2 cup of TVP in 1/2 cup of hot water for 5 minutes, then squeeze out the extra water.",
+      "Heat a little oil in a large pan over medium heat and cook the potato cubes for 4 minutes until browned.",
+      "Add the TVP, 1 teaspoon of cumin, and a pinch of salt, and cook for 3 minutes, stirring often.",
+      "Add a handful of spinach and 1 tablespoon of chili sauce, and cook until the spinach wilts, about 1 minute.",
+      "Taste, adjust the seasoning, and serve hot."
+    ]
+  }
+]

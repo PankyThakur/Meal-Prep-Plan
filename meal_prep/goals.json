@@ -1,0 +1,11 @@
+{
+  "calorie_target": 1900,
+  "protein_target": 140,
+  "fiber_target": 30,
+  "dietary_restrictions": ["vegetarian"],
+  "dislikes": ["sweet potato"],
+  "cuisines": ["mexican", "italian", "indian", "mediterranean"],
+  "favorite_breakfasts": ["omelette"],
+  "favorite_lunches": ["tofu bowl"],
+  "favorite_dinners": ["high protein pasta"]
+}
